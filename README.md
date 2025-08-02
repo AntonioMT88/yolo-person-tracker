@@ -1,3 +1,7 @@
+📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-montemurro-2b3107287/)
+
 # YOLO Person Tracker
 
 A real-time person detection and tracking application using YOLOv8 and DeepSort with flexible video input support (webcam, IP camera, video file).
